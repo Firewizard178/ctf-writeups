@@ -4,7 +4,7 @@ General Skills, 100 Points
 ## Solution 
 You need to connect to the port with netcat and complete a series of requests to convert the strings to hash using md5
 
-You I used [this](md5hashgenerator.com)
+You I used [this](https://www.md5hashgenerator.com/) tool
 
 ```firewizard@firewizard-VirtualBox:~$ nc saturn.picoctf.net 63116
 
